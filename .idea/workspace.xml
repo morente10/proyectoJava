@@ -6,17 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="p">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversionDeTipos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo 2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nombre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitivosBoolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitivosCaracteres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitivosEnteros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitivosFloat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/borrar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -45,6 +36,9 @@
         <option name="url" value="https://github.com/morente10/proyectoJava.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2PTuI3T8nSXazzR4dQZsGHpBexn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,11 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/antoniomorente/Library/CloudStorage/OneDrive-Personal/Instituto/CFGS DAW-DAM/1.- Programacion/CursoUdemy/JavaUdemy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683493310110</updated>
+      <workItem from="1683629369208" duration="39000" />
+      <workItem from="1683629431577" duration="401000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -96,11 +102,32 @@
       <option name="project" value="LOCAL" />
       <updated>1683499253500</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="p">
+      <created>1683533503174</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683533503174</updated>
+    </task>
+    <task id="LOCAL-00006" summary="p">
+      <created>1683533725912</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683533725912</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p" />
     <option name="LAST_COMMIT_MESSAGE" value="p" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
