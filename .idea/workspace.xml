@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="p">
+    <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/DetalleDeFactura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/borrar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/ConversionDeTipos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/HolaMundo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosBoolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosCaracteres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosEnteros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosFloat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/SistemasNumericos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/SistemasNumericosEntradaScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/Nombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/Nombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/variables.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +63,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/antoniomorente/Library/CloudStorage/OneDrive-Personal/Instituto/CFGS DAW-DAM/1.- Programacion/CursoUdemy/JavaUdemy",
@@ -72,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683493310110</updated>
       <workItem from="1683629369208" duration="39000" />
-      <workItem from="1683629431577" duration="401000" />
+      <workItem from="1683629431577" duration="5793000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -116,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683533725912</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="primeros pasos">
+      <created>1683629950766</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683629950766</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p" />
-    <option name="LAST_COMMIT_MESSAGE" value="p" />
+    <MESSAGE value="primeros pasos" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeros pasos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
