@@ -1,3 +1,5 @@
+package introduccion;
+
 public class EjemploStringExtensionArchivo {
     public static void main(String[] args) {
         

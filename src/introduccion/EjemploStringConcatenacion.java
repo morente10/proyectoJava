@@ -1,3 +1,5 @@
+package introduccion;
+
 public class EjemploStringConcatenacion {
     public static void main(String[] args) {
         String curso = "Programación Java";
@@ -15,5 +17,6 @@ public class EjemploStringConcatenacion {
         
         String detalle2 = curso.concat(" con ").concat(profesor);
         System.out.println("detalle2 = " + detalle2);
+
     }
 }
