@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/DetalleDeFactura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/ConversionDeTipos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/HolaMundo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosBoolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosCaracteres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosEnteros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/PrimitivosFloat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/SistemasNumericos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducción y variables/SistemasNumericosEntradaScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/HolaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/Nombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/Nombre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mis ejercicios/variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MisEjercicios/ProgramasNombresFamilia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/ProgramasNombresFamilia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,22 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/antoniomorente/Library/CloudStorage/OneDrive-Personal/Instituto/CFGS DAW-DAM/1.- Programacion/CursoUdemy/JavaUdemy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/antoniomorente/Library/CloudStorage/OneDrive-Personal/Instituto/CFGS DAW-DAM/1.- Programacion/CursoUdemy/JavaUdemy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/introduccion" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1683493310110</updated>
       <workItem from="1683629369208" duration="39000" />
-      <workItem from="1683629431577" duration="5793000" />
+      <workItem from="1683629431577" duration="8105000" />
+      <workItem from="1683740757589" duration="3610000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -135,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683629950766</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="primeros pasos">
+      <created>1683733595730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683733595730</updated>
+    </task>
+    <task id="LOCAL-00009" summary="primeros pasos">
+      <created>1683755288083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683755288083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
