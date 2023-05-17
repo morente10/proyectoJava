@@ -5,6 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/EstanqueGasolina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/NombresFamilia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/NotasAlumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/NumeroMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/OrdenarNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorTernarioNumeroMayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresAsignacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresIncrementales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresLogico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresLogicosLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresUnarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/PrecedenciaOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaForArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaIfElseNumDiasMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaSwitchCaseNumDiasMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciasBucleEtiquetas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciasBucleEtiquetasBuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduccion/WrapperBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduccion/WrapperInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduccion/WrapperOperadoresRelacionales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MisEjercicios/ProgramasNombresFamilia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/ProgramasNombresFamilia.java" afterDir="false" />
     </list>
@@ -59,6 +90,9 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -66,6 +100,8 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/introduccion" />
+      <recent name="$PROJECT_DIR$/src/OperadoresSentencias" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,7 +114,11 @@
       <updated>1683493310110</updated>
       <workItem from="1683629369208" duration="39000" />
       <workItem from="1683629431577" duration="8105000" />
-      <workItem from="1683740757589" duration="3610000" />
+      <workItem from="1683740757589" duration="7366000" />
+      <workItem from="1683843526115" duration="1320000" />
+      <workItem from="1684186669057" duration="2384000" />
+      <workItem from="1684272916646" duration="4871000" />
+      <workItem from="1684358216904" duration="3362000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -143,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683755288083</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="primeros pasos">
+      <created>1683837817718</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683837817718</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

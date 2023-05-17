@@ -24,9 +24,10 @@ public class ProgramasNombresFamilia {
             String newNombre3=nombre2.charAt(1)+"."+nombre3.substring(l3-2);
             String resultado= newNombre1.concat("_").concat(newNombre2).concat("_").concat(newNombre3);
             //metodo concatenación más eficiente
-            String resultado2=
+            StringBuilder sb = new StringBuilder(newNombre1);
+            sb.append("_").append(newNombre2).append("_").append(newNombre3);
             System.out.println(resultado);
-            System.out.println(resultado2);
+            System.out.println(sb.toString());
         }
     }
 
