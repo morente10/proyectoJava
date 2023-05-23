@@ -13,7 +13,9 @@ public class NumeroMenor {
             int num = scanner.nextInt();
             menor = (num<menor) ? num : menor;
         }
-        System.out.println("El número menos es:" + menor);
+        System.out.println("El número menor es:" + menor);
+        if (menor<10) {System.out.println("El número es menor de 10");
+        }else{System.out.println("El número es mayor o  de 10");}
     }
 }
 /*

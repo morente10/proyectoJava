@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/EstanqueGasolina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/NombresFamilia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/NotasAlumnos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/NumeroMenor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/OrdenarNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorInstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadorTernarioNumeroMayor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresAsignacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresIncrementales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresLogico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresLogicosLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresRelacionales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/OperadoresUnarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/PrecedenciaOperadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaForArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaIfElseNumDiasMes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaSwitchCaseNumDiasMes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciasBucleEtiquetas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciasBucleEtiquetasBuscar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduccion/WrapperBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduccion/WrapperInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduccion/WrapperOperadoresRelacionales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MisEjercicios/ProgramasNombresFamilia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/ProgramasNombresFamilia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MisEjercicios/NumeroMenor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MisEjercicios/NumeroMenor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +87,11 @@
       <workItem from="1683843526115" duration="1320000" />
       <workItem from="1684186669057" duration="2384000" />
       <workItem from="1684272916646" duration="4871000" />
-      <workItem from="1684358216904" duration="3362000" />
+      <workItem from="1684358216904" duration="3611000" />
+      <workItem from="1684362134251" duration="364000" />
+      <workItem from="1684706403141" duration="154000" />
+      <workItem from="1684706954629" duration="17000" />
+      <workItem from="1684790099029" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -190,11 +163,29 @@
       <option name="project" value="LOCAL" />
       <updated>1683837817718</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="primeros pasos">
+      <created>1684361984919</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684361984919</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p" />
