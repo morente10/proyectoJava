@@ -5,9 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/MenuOpciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MisEjercicios/MultiplicarNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArregloNotasAlumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosBuscarNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosBuscarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosCombinados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion2b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion3b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDetectarOrden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosForInverso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosForInversoMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosForOrdenamientoBurbuja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosNumMayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosOrdenPrincipioFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosParesImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesBuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesColumnasVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesIdentidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesMarco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesSimetrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesStringFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesStringFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesSumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesSumarFilasColumnas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesTransponerMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemplosArreglosEliminarElemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduccion/AutoboxingInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduccion/EjemploMetodoGetClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduccion/WrapperBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/WrapperBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduccion/WrapperInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/WrapperInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduccion/WrapperOperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/WrapperOperadoresRelacionales.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +105,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/EstructuraDatos" />
       <recent name="$PROJECT_DIR$/src/introduccion" />
       <recent name="$PROJECT_DIR$/src/OperadoresSentencias" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EstructuraDatos" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +132,8 @@
       <workItem from="1684362134251" duration="364000" />
       <workItem from="1684706403141" duration="154000" />
       <workItem from="1684706954629" duration="17000" />
-      <workItem from="1684790099029" duration="6380000" />
+      <workItem from="1684790099029" duration="7937000" />
+      <workItem from="1684961446756" duration="3721000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -179,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684862721267</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="primeros pasos">
+      <created>1684913230049</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684913230049</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
