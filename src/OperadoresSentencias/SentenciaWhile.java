@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class SentenciaWhile {
     public static void main(String[] args) {
 

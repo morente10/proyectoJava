@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class OperadoresAsignacion {
     public static void main(String[] args) {
         int i = 5;

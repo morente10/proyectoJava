@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class OperadoresUnarios {
     public static void main(String[] args) {
         int i = -5;

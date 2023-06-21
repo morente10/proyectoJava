@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class OperadoresLogico {
     public static void main(String[] args) {
         

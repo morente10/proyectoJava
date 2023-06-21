@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class OperadorInstanceOfTiposGenericos {
     public static void main(String[] args) {
 

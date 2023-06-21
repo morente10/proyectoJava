@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class SentenciasBucleEtiquetas {
     public static void main(String[] args) {
 

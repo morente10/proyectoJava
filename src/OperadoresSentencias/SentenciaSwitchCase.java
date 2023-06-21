@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 import java.util.Scanner;
 
 public class SentenciaSwitchCase {

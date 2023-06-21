@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 public class OperadoresRelacionales {
     public static void main(String[] args) {
         

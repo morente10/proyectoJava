@@ -1,3 +1,5 @@
+package OperadoresSentencias;
+
 import javax.swing.*;
 
 public class SentenciaForArreglo {

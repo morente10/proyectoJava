@@ -1,4 +1,4 @@
-package introducción;
+package introduccion;
 
 public class HolaMundo2 {
     public static void main(String[] args) {
