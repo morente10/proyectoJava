@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
-      <change afterPath="$PROJECT_DIR$/src/POO/Automovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaWhile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1684706954629" duration="17000" />
       <workItem from="1684790099029" duration="7937000" />
       <workItem from="1684961446756" duration="3721000" />
-      <workItem from="1687562312099" duration="201000" />
+      <workItem from="1687562312099" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -198,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1687562401934</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="primeros pasos">
+      <option name="closed" value="true" />
+      <created>1687562522711</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687562522711</updated>
+    </task>
+    <task id="LOCAL-00016" summary="primeros pasos">
+      <option name="closed" value="true" />
+      <created>1687562661950</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687562661950</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
