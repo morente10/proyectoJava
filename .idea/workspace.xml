@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArregloNotasAlumnos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosBuscarNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosBuscarString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosCombinados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion2b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDesplazarPosicion3b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosDetectarOrden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosForInverso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosForInversoMutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosForOrdenamientoBurbuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosNumMayor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosOrdenPrincipioFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArreglosParesImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesBuscar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesColumnasVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesIdentidad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesMarco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesSimetrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesStringFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesStringFor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesSumar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesSumarFilasColumnas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesTransponerMatriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploMatricesTranspuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemplosArreglosEliminarElemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduccion/AutoboxingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduccion/EjemploMetodoGetClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduccion/WrapperBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/WrapperBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduccion/WrapperInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/WrapperInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduccion/WrapperOperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/WrapperOperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Automovil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,25 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/antoniomorente/Library/CloudStorage/OneDrive-Personal/Instituto/CFGS DAW-DAM/1.- Programacion/CursoUdemy/JavaUdemy&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/antoniomorente/CursoUdemy/JavaUdemy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/EstructuraDatos" />
@@ -134,6 +97,7 @@
       <workItem from="1684706954629" duration="17000" />
       <workItem from="1684790099029" duration="7937000" />
       <workItem from="1684961446756" duration="3721000" />
+      <workItem from="1687562312099" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -226,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1684913230049</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="primeros pasos">
+      <option name="closed" value="true" />
+      <created>1687562401934</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687562401934</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
