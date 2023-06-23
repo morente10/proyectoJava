@@ -2,7 +2,7 @@ package OperadoresSentencias;
 
 public class SentenciaWhile {
     public static void main(String[] args) {
-
+    /* prueba*/
         int i = 0;
         while(i <= 5){
             System.out.println("i = " + i);
