@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c85261-4998-470a-b3ce-6edc6bfa8fa5" name="Changes" comment="primeros pasos">
-      <change beforePath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperadoresSentencias/SentenciaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/EjemploAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/EjemploAutomovilArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/EjemploAutomovilEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/EjemploAutomovilStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/Estanque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/Rueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/TipoAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ejemplos/TipoMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/MisEjercicios/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/MisEjercicios/VistaAutomovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructuraDatos/EjemploArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Automovil.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,31 +64,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/antoniomorente/CursoUdemy/JavaUdemy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/antoniomorente/CursoUdemy/JavaUdemy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/POO/Ejemplos" />
       <recent name="$PROJECT_DIR$/src/EstructuraDatos" />
       <recent name="$PROJECT_DIR$/src/introduccion" />
       <recent name="$PROJECT_DIR$/src/OperadoresSentencias" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="POO.Ejemplos" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="EstructuraDatos" />
@@ -97,7 +118,9 @@
       <workItem from="1684706954629" duration="17000" />
       <workItem from="1684790099029" duration="7937000" />
       <workItem from="1684961446756" duration="3721000" />
-      <workItem from="1687562312099" duration="421000" />
+      <workItem from="1687562312099" duration="496000" />
+      <workItem from="1687562815510" duration="65000" />
+      <workItem from="1688193751328" duration="6677000" />
     </task>
     <task id="LOCAL-00001" summary="p">
       <created>1683493530004</created>
@@ -214,7 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1687562661950</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="primeros pasos">
+      <option name="closed" value="true" />
+      <created>1687562744482</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687562744482</updated>
+    </task>
+    <task id="LOCAL-00018" summary="primeros pasos">
+      <option name="closed" value="true" />
+      <created>1687562753393</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687562753393</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
